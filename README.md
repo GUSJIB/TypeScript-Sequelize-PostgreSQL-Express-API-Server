@@ -1,0 +1,1 @@
+# TypeScript-Sequelize-PostgreSQL-Express-API-Server
